@@ -1,0 +1,2 @@
+INSERT INTO AUTHOR (age, followers, name, id) VALUES ('37',60000000,'Zakaria',1),('27',12121,'Imane',2),('1',003,'Ahmed',3);
+INSERT INTO BOOK VALUES (1,1,'2024-01-01','Quraan','Religion'),(2,2,'2020-01-01','Pneu','Automobile'),(1,3,'2020-01-01','Sur Ma mere','Roman'),(1,4,'2020-01-01','GS-1250','Automobile'),(2,5,'2020-01-01','Nodle','Biographie'),(2,6,'2020-01-01','Hadit','Religion');

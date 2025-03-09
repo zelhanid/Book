@@ -1,0 +1,52 @@
+[
+  {
+    "id_author": 1,
+    "author": "Zakaria",
+    "message": "Ceci est un message de Zakaria."
+  },
+  {
+    "id_author": 2,
+    "author": "Imane",
+    "message": "Salut tout le monde, c'est Imane."
+  },
+  {
+    "id_author": 3,
+    "author": "Zaynab",
+    "message": "Zayban ici, j'espère que vous allez bien !"
+  },
+  {
+    "id_author": 4,
+    "author": "Ahmed",
+    "message": "Bonjour, c'est Ahemd. Très content de vous parler."
+  },
+  {
+    "id_author": 5,
+    "author": "Omar",
+    "message": "Omar à l'appareil, comment ça va ?"
+  },
+  {
+    "id_author": 6,
+    "author": "Mouaatassim",
+    "message": "Message de Mouaatasim. Rien de spécial aujourd'hui."
+  },
+  {
+    "id_author": 7,
+    "author": "Latifa",
+    "message": "Coucou, c'est Latifa. Passez une excellente journée !"
+  },
+  {
+    "id_author": 8,
+    "author": "Mahdi",
+    "message": "Mahdi ici, je voulais juste dire bonjour à tous."
+  },
+  {
+    "id_author": 9,
+    "author": "Awatif",
+    "message": "C'est Awatif. J'ai hâte de vous voir bientôt."
+  },
+  {
+    "id_author": 10,
+    "author": "Samir",
+    "message": "Samir ici. Rien de particulier à ajouter pour l'instant."
+  }
+]
